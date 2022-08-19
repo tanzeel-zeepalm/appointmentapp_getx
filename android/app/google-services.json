@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447914172398",
+    "project_id": "appointment-app-b43a8",
+    "storage_bucket": "appointment-app-b43a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447914172398:android:ec0585762deb02a96838ff",
+        "android_client_info": {
+          "package_name": "com.zeepalm.appoitment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447914172398-vkdtaqrae5tu48a7ssampueigvbvogqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7TysKCzuCi1DoX97kAyXFYgItqs9_bTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447914172398-vkdtaqrae5tu48a7ssampueigvbvogqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
